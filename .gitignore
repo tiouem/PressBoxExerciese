@@ -1,0 +1,8 @@
+﻿PressBox/bin
+PressBox/obj
+.idea/.idea.PressBox/Docker/docker-compose.generated.override.yml
+.idea
+PressBoxApi/bin
+PressBoxApi/obj
+PressBox.Tests/bin
+PressBox.Tests/obj

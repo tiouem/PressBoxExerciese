@@ -1,0 +1,6 @@
+﻿services:
+  pressboxapi:
+    image: pressboxapi
+    build:
+      context: .
+      dockerfile: PressBoxApi/Dockerfile
